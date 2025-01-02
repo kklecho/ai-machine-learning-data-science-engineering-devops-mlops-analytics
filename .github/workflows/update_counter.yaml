@@ -19,5 +19,9 @@ jobs:
           ./update_counter.sh
           ./update_counter.sh
           ./update_counter.sh
-        # env:
-        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ./update_counter.sh
+          ./update_counter.sh
+          ./update_counter.sh
+          ./update_counter.sh
+          ./update_counter.sh
+          ./update_counter.sh
