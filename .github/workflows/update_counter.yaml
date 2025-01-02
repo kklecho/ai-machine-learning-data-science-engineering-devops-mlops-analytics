@@ -1,0 +1,15 @@
+name: Update counter
+
+on:
+  schedule:
+    - cron: '30 23 * * *'
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update the counter
+        run: |
+          ./update_counter.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
