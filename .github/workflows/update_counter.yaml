@@ -2,7 +2,7 @@ name: Update counter
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '7 23 * * *'
 
 permissions:
   contents: write
