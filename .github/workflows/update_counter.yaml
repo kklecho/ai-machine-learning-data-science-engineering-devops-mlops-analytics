@@ -2,7 +2,7 @@ name: Update counter
 
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '1 * * * *'
 
 jobs:
   update-counter:
