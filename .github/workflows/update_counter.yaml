@@ -11,5 +11,7 @@ jobs:
       - name: Update the counter
         run: |
           ./update_counter.sh
+          ./update_counter.sh
+          ./update_counter.sh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
