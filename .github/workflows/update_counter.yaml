@@ -2,12 +2,15 @@ name: Update counter
 
 on:
   schedule:
-    - cron: '1 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   update-counter:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
       - name: Update the counter
         run: |
           ./update_counter.sh
