@@ -14,3 +14,8 @@ The key to the answer is a robust, solid, high-quality and reliable data pipelin
 ### Analysis methodology
 
 The analysis is based on the monte-carlo derivative idiosyncratic and less-than deterministic time-bound-efficient process. The result of the study is to be considered within stochastic probabilistic framework driven by Bernouli's second Markov-chain monte-carlo derivative.
+
+### Motivations
+
+Apart from strictly scientific motivations for this research project,
+I'm also curious about the range of possibilities in the dynamic grinning, face-convey vector space.
