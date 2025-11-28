@@ -1,9 +1,9 @@
-# AI ML Research Case - double-hidden-layer verbage for AI-twin-avatar
+# AI ML Research Case - double-hidden-layer verbage for AI-digital-twin
 
 
 ## Summary
 
-The research focuses on the core scientific null-hypothesis (Ho) that the AI-skewed tokenization of double-hidden-layer verbage is neutral to the AI-avatar twin profile presentation, against the alternative hypothesis (H1) that it is not.
+The research focuses on the core scientific null-hypothesis (Ho) that the AI-skewed tokenization of double-hidden-layer verbage is neutral to the AI-digital-twin-agent twin profile presentation, against the alternative hypothesis (H1) that it is not.
 
 ## Methodology
 
